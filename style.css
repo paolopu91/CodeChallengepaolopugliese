@@ -1,0 +1,80 @@
+body{
+  background-image: url(background.jpg);
+  background-repeat: no-repeat;
+  background-size: 1920px 1080px;
+}
+.Contenitore{
+  border-radius: 10px;
+  width: 1200px;
+  height: 700px;
+  margin-top: 50px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: black;
+  opacity: 0.6;
+}
+.center{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%
+}
+.Titolo{
+  text-align: center;
+  color: lime;
+  font-size: 30px;
+}
+.nav{
+  border-radius: 10px;
+  height: 50px;
+  width: 1000px;
+  background: lime;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+.bottone{
+  height: 50%;
+  margin-top: 10px;
+}
+main{
+  margin-top: 20px;
+
+}
+.main1{
+  margin-left: 100px;
+  color: white;
+  font-size: 22px;
+}
+.main2{
+  margin-left: 100px;
+  color: white;
+  font-size: 17px;
+}
+.main3{
+  margin-left: 100px;
+  color: white;
+  font-size: 15px;
+}
+.arancio{
+  border-radius: 7px;
+  height: 30px;
+  text-align: center;
+  margin-left: 100px;
+  margin-right: auto;
+}
+.primo{
+  width: 300px;
+  background-color: orange;
+  margin-bottom: 30px;
+}
+.secondo{
+  margin-bottom: 20px;
+  background-color: lime;
+  width: 500px;
+}
+.terzo{
+  margin-bottom: 20px;
+  background-color: red;
+  width: 100px;
+}
